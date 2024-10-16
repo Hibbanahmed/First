@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TrustPass</string>
+    <string-array name="sort_options">
+        <item>Name (A-Z)</item>
+        <item>Name (Z-A)</item>
+        <item>Email (A-Z)</item>
+        <item>Email (Z-A)</item>
+    </string-array>
+    <string-array name="roles_array">
+        <item>User</item>
+        <item>Doctor</item>
+        <item>Receptionist</item>
+    </string-array>
+</resources>
